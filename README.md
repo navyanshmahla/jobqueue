@@ -1,6 +1,7 @@
 # JobQueue
+## NOTE: Testing remains
 
-A powerful job queue manager for deep learning workloads that helps you automate and schedule your experiments.
+A powerful job queue manager for deep learning workloads that helps you automate and schedule your experiments. 
 
 ## Features
 
